@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    padding: 1rem;
+}
+
+.card {
+    width: 400px;
+    background-color: yellow;
+    border: 1px solid brown;
+    margin: 2rem auto;
+    padding: 2rem;
+    border-radius: 0.75rem;
+    text-align: center;
+}

@@ -32,3 +32,5 @@ const sumMod10 = (a, b) => {
 };
 
 sumMod10(10, 34);
+
+console.log("END");
